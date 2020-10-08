@@ -12,6 +12,7 @@ const PERSONAL_MESSAGES = {
   8386: 'aqui tens o teu chá preto, que eu não me esqueço nunca :tea: (buéda terabytes de memória, yo)',
   1905: 'ora aqui está um chá fresquinho bem quentinho. Se quiseres uma farripa de leite é só dizer.',
   5652: 'sei que não bebes café, por isso toma lá um chá e não digas que vais daqui :tea:',
+  4394: 'sai um latte macchiato caramel, para o caramelo :coffee:',
 };
 
 const GREETINGS_BOM_DIA = [
